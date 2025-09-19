@@ -1,35 +1,51 @@
-# 👋 Hi there, I'm Arfas Khan!
+👋 Hi there, I'm Arfas Khan!
 
-## 👨‍💻 About Me
-I'm a Python programmer with **3 years of hands-on experience** in:
-- Writing scalable Python code
-- Working with **SQL** for querying and managing data
-- **Collecting, cleansing, and visualizing data** based on specific client requirements
+👨‍💻 About Me
 
-Currently transitioning into a **Data Engineering** role and expanding my tech stack to handle big data and cloud-based systems.
+I’m a Python + SQL Programmer with 3.5 years of professional experience in:
 
-## 🌱 Currently Learning
-- **Big Data Frameworks:** PySpark, Hadoop  
-- **Workflow Orchestration:** Apache Airflow  
-- **Cloud Platform:** AWS (Basics)
+Writing Python scripts for automation and data processing
 
-## 💬 Ask Me About
-- Python scripting for data automation  
-- SQL queries and database design  
-- Data cleaning and visualization techniques  
-- My journey into data engineering
+Using SQL (MySQL & PostgreSQL) to query, transform, and manage data
 
-## 💞️ Looking to Collaborate On
-- Data pipeline and ETL/ELT projects  
-- Open-source big data tools  
-- Real-world data engineering use cases
+Preparing client-specific datasets by cleaning, filtering, and structuring raw data
 
-## 📫 Contact Me
-- **Email:** arfaskhan27@gmail.com
-- **Phone:** +91 8870254584  
--  **LinkedIn:** www.linkedin.com/in/arfas-khan-d-711825218
+I am now transitioning into a Data Analyst role — building skills in Excel, Power BI, Tableau, and orchestration tools to deliver data-driven insights.
 
+🌱 Currently Learning
 
+Business Intelligence Tools: Excel, Power BI, Tableau
 
-## ⚡ Fun Fact
-I love transforming raw, chaotic data into structured insights—and I'm excited about automating data workflows at scale!
+Workflow Orchestration: Prefect, Apache Airflow (basic understanding)
+
+Data Analysis: Statistical techniques and data storytelling
+
+💬 Ask Me About
+
+Python for scripting and automation
+
+Writing SQL queries (joins, subqueries, aggregations)
+
+Preparing datasets for reporting and analysis
+
+My journey from programmer → aspiring Data Analyst
+
+💞️ Looking to Collaborate On
+
+Beginner-friendly data analysis projects
+
+Dashboard & visualization projects (Power BI, Tableau)
+
+Automating reporting workflows with Python + SQL
+
+📫 Contact Me
+
+Email: arfaskhan27@gmail.com
+
+Phone: +91 8870254584
+
+LinkedIn: www.linkedin.com/in/arfas-khan-d-711825218
+
+⚡ Fun Fact
+
+I enjoy learning new tools to make data more meaningful and actionable, and I’m passionate about starting my journey as a Data Analyst.
